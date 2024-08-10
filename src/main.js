@@ -240,6 +240,8 @@ const createPromise = (delay, status) => {
   });
 };
 
+const a = 'text';
+
 // function createPromise(delay, status) {
 //   setTimeout(() => {
 //     if (status === 'fulfilled') {
