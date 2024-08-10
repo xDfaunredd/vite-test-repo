@@ -251,3 +251,5 @@ const a = 'text';
 //     }
 //   }, delay);
 // }
+
+const b = 'text b';
