@@ -249,3 +249,6 @@ const createPromise = (delay, status) => {
 //     }
 //   }, delay);
 // }
+
+const a = 'a';
+const b = 'b';
