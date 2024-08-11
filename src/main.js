@@ -232,13 +232,13 @@
 //   maxDate: new Date().fp_incr(7), // 14 days from now
 // });
 
-const createPromise = (delay, status) => {
-  return new Promise((resolve, reject) => {
-    setTimeout(() => {
-      status === 'fulfilled' ? resolve(delay) : reject(delay);
-    }, delay);
-  });
-};
+// const createPromise = (delay, status) => {
+//   return new Promise((resolve, reject) => {
+//     setTimeout(() => {
+//       status === 'fulfilled' ? resolve(delay) : reject(delay);
+//     }, delay);
+//   });
+// };
 
 // function createPromise(delay, status) {
 //   setTimeout(() => {
