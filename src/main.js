@@ -241,6 +241,3 @@
 //     }
 //   }, delay);
 // }
-
-const a = 'a';
-const myMan21 = '21';
